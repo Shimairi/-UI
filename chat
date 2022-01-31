@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Chat App</title>
+    <link rel="stylesheet" type="text/css" media="scren" href="css/css_chat.css" />
+</head>
+<body>
+    <div id="chat-container">
+        </div id="search-container">
+            <input type="text" placeholder="Search" />
+
+        </div>
+        <div id="conversation-list">
+
+        </div>
+        <div id="new-message-container">
+
+        </div>
+        <div id="chat-title">
+
+        </div>
+        <div id="chat-message-list">
+
+        </div>
+        <div id="chat-form">
+
+        </div>
+    </div>
+</body>
+</html> 
